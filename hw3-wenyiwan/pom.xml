@@ -81,7 +81,7 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<connection>scm:git:git@github.com:wangwy1105/hw3-wenyiwan.git</connection>
-		<developerConnection>scm:git:git@github.com:wangwy1105/hw3-wenyiwan.git</developerConnection>
+		<connection>scm:git:git@github.com:wangwy1105/hw3-wenyiwan_new.git</connection>
+		<developerConnection>scm:git:git@github.com:wangwy1105/hw3-wenyiwan_new.git</developerConnection>
 	</scm>
 </project>
